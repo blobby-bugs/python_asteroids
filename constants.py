@@ -4,11 +4,13 @@ SCREEN_HEIGHT = 720
 
 #drawing constants
 LINE_WIDTH = 2
+SHOT_RADIUS = 5
 
 # player constants
 PLAYER_RADIUS = 20
 PLAYER_TURN_SPEED = 300
 PLAYER_SPEED = 200
+PLAYER_SHOOT_SPEED = 500
 
 # asteroid constants
 ASTEROID_MIN_RADIUS = 20
